@@ -63,8 +63,8 @@ else:
     print("Треугольник с такими сторонами не существует.")
 
 ```
-Python
-<img src="python.png">
-
 C#
 <img src="c.png">
+
+Python
+<img src="python.png">
