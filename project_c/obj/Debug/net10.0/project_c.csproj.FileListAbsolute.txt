@@ -1,0 +1,14 @@
+Z:\MAIN\VScode\pr\exam\project_c\bin\Debug\net10.0\project_c.exe
+Z:\MAIN\VScode\pr\exam\project_c\bin\Debug\net10.0\project_c.deps.json
+Z:\MAIN\VScode\pr\exam\project_c\bin\Debug\net10.0\project_c.runtimeconfig.json
+Z:\MAIN\VScode\pr\exam\project_c\bin\Debug\net10.0\project_c.dll
+Z:\MAIN\VScode\pr\exam\project_c\bin\Debug\net10.0\project_c.pdb
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.GeneratedMSBuildEditorConfig.editorconfig
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.AssemblyInfoInputs.cache
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.AssemblyInfo.cs
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.csproj.CoreCompileInputs.cache
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.dll
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\refint\project_c.dll
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.pdb
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\project_c.genruntimeconfig.cache
+Z:\MAIN\VScode\pr\exam\project_c\obj\Debug\net10.0\ref\project_c.dll
