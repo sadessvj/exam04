@@ -46,6 +46,9 @@ class Program
     }
 }
 ```
+C#
+<img src="c.png">
+
 Решение python
 ```python
 a = float(input("Введите сторону a: "))
@@ -63,8 +66,5 @@ else:
     print("Треугольник с такими сторонами не существует.")
 
 ```
-C#
-<img src="c.png">
-
 Python
 <img src="python.png">
